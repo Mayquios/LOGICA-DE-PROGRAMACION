@@ -1,6 +1,6 @@
 /*
     ? Problema 0001 - Suma de Dos
-    * Autor : Marcos Yana 
+    * Autor : Mayquios 
 */
 
 const addTwoNumbers = (l1, l2) => {
