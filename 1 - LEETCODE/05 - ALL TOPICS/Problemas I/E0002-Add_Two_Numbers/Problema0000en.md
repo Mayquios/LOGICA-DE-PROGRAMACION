@@ -1,7 +1,7 @@
 
 # 2. Add Two Numbers
 
- [Spanish](https://github.com/doocs/leetcode/edit/main/solution/0000-0099/0002.Add%20Two%20Numbers/README_EN.md)
+ [Spanish](https://github.com/Mayquios/Logica-de-Programacion/blob/master/1%20-%20LEETCODE/05%20-%20ALL%20TOPICS/Problemas%20I/E0002-Add_Two_Numbers/Problema0000es.md)
 
 **difficulty:** Medium
 
